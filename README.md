@@ -1,2 +1,2 @@
 # max-levels
-Displays the max level you can achieve, given the initial stat
+Displays the max level your character can achieve in a stat, given the character's initial stat roll.
